@@ -1,0 +1,33 @@
+.gift {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cover {
+    width: 100px;
+    height: 25px;
+    background-color: #303F9F;
+}
+
+.body {
+    width: 90px;
+    height: 60px;
+    background-color: #1A237E;
+}
+
+.tape1 {
+    position: absolute;
+    width: 15px;
+    height: 85px;
+    background-color: #D500F9;    
+}
+
+.tape2 {
+    position: absolute;
+    top: 40px;
+    width: 90px;
+    height: 15px;
+    background-color: #D500F9;
+}
