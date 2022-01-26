@@ -4,6 +4,8 @@ traz uma quantidade de portas e em uma das portas existe um prêmio, o participa
 escolher uma porta e o apresentador abre uma outra porta e pergunta se o participanete 
 quer trocar de porta ou quer permanecer com a porta escolhida. 
 Esse projeto é um desafio proposto pela escola de programadores Cod3r. 
+Fiz o deploy na nuvem do projeto e você consegue acessar e testar o projeto totalmente online no link a seguir:
+https://desafio-monty-hall.vercel.app
 
 # O que foi utilizado 
 - Esse projeto foi feito em Next.Js 
